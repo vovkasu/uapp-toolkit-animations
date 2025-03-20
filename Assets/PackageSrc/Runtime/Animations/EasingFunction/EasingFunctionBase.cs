@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace UAppToolKit.Core.Animations.EasingFunction
+namespace UAppToolKit.Animations.EasingFunction
 {
     public abstract class EasingFunctionBase
     {

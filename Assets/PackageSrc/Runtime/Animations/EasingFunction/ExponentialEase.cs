@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UAppToolKit.Core.Animations.EasingFunction
+namespace UAppToolKit.Animations.EasingFunction
 {
     public class ExponentialEase : EasingFunctionBase
     {

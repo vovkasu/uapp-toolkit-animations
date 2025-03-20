@@ -1,4 +1,4 @@
-﻿namespace UAppToolKit.Core.Animations.EasingFunction
+﻿namespace UAppToolKit.Animations.EasingFunction
 {
     public class Linear : EasingFunctionBase
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UAppToolKit.Core.Animations
+namespace UAppToolKit.Animations
 {
     public class Vector4Animation : SimpleAnimationBase
     {

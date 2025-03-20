@@ -1,7 +1,7 @@
 ﻿using System;
-using UAppToolKit.Core.Animations.EasingFunction;
+using UAppToolKit.Animations.EasingFunction;
 
-namespace UAppToolKit.Core.Animations
+namespace UAppToolKit.Animations
 {
     public abstract class SimpleAnimationBase
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace UAppToolKit.Core.Animations
+namespace UAppToolKit.Animations
 {
     public class Storyboard : MonoBehaviour
     {

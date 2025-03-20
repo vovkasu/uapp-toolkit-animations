@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UAppToolKit.Core.Animations.EasingFunction
+namespace UAppToolKit.Animations.EasingFunction
 {
     public static class EasingModes
     {

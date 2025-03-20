@@ -1,0 +1,25 @@
+{
+  "name": "uapp-toolkit-animations",
+  "version": "1.0.0",
+  "displayName": "UAppToolkit.Animations",
+  "description": "UAppToolkit Animations",
+  "unity": "2019.1",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "keywords": [
+    "animations",
+    "scripting"
+  ],
+  "author": {
+    "name": "Surov Volodymyr",
+    "email": "vovkasu@gmail.com"
+  },
+  "samples": [
+    {
+      "displayName": "Animations sample",
+      "description": "Animations sample.",
+      "path": "Samples~/AnimationsSample"
+    }
+  ]  
+}  
